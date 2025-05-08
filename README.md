@@ -32,8 +32,7 @@ I'm excited to collaborate on:
 ### 📫 How to Reach Me  
 - 💼 **[LinkedIn](www.linkedin.com/in/manojkumar002)**  
 - 🌐 **[Portfolio]()**  
-- 🐦 **[Twitter]()**  
-- ✉️ **your.email@example.com**  
+- ✉️ **bandamanuuu@gmail.com**  
 
 ---
 
@@ -41,11 +40,4 @@ I'm excited to collaborate on:
 He/Him  
 
 ---
-
-### ⚡ Fun Fact  
-I believe great user experiences come from **small details**—and a bit of **imagination** goes a long way.  
-
----
-
-✨ _"The only limit to what you can create is your imagination."_  
 
